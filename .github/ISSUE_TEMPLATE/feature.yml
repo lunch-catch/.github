@@ -16,8 +16,8 @@ body:
     attributes:
       label: 작업
       value: |
-        - [ ] 
-        - [ ] 
+        - 
+        - 
     validations:
       required: true
 
