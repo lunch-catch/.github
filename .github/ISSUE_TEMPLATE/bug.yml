@@ -1,7 +1,7 @@
 name: 버그
 description: 동작이 잘못되었다
 title: "[Fix] "
-labels: [fix]
+labels: ["fix"]
 body:
   - type: textarea
     id: repro

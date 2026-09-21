@@ -1,7 +1,7 @@
 name: 기능 개발
 description: 새 기능이나 API를 추가한다
 title: "[Feat] "
-labels: [feat]
+labels: ["feat"]
 body:
   - type: input
     id: domain
