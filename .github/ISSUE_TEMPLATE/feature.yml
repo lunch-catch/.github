@@ -7,7 +7,7 @@ body:
     id: domain
     attributes:
       label: 도메인
-      placeholder: 주문 / 상품 / 회원 / 인증 ...
+      placeholder: account / merchant / campaign / poster / billing / adserving / coupon / notification / analytics / ops
     validations:
       required: true
 
