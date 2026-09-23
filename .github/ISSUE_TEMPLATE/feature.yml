@@ -7,7 +7,7 @@ body:
     id: domain
     attributes:
       label: 도메인
-      placeholder: account / merchant / campaign / poster / billing / adserving / coupon / notification / analytics / ops
+      placeholder: admin / owner / member / merchant / campaign / poster / billing / adserving / coupon / notification / analytics / ops / budget
     validations:
       required: true
 
