@@ -18,7 +18,7 @@
 | 사용자 | [lunchcatch.com](https://lunchcatch.com) |
 | 점주 | [owner.lunchcatch.com](https://owner.lunchcatch.com) |
 | 관리자 | [admin.lunchcatch.com](https://admin.lunchcatch.com) |
-| API 문서 | [Swagger UI](https://api.dev.lunchcatch.com/swagger-ui.html) |
+| API 문서 | [api-spec.md](https://github.com/lunch-catch/lc-backend/blob/develop/docs/api-spec/api-spec.md) |
 
 <br>
 
@@ -27,7 +27,7 @@
 | 구분 | 하는 일 |
 |---|---|
 | 회원 | 지금 위치 주변의 쿠폰 광고를 피드로 받고, 가게를 찜하고, 선착순 쿠폰을 받아 가게에서 QR 로 쓴다 |
-| 점주 | 가게를 등록하고 쿠폰 캠페인을 만들고, 포인트를 충전해 광고를 집행하고, 노출과 발급 실적을 본다 |
+| 점주 | 가게를 등록하고 쿠폰 캠페인을 만들고, 포인트를 충전해 광고를 집행하고, 광고 실적을 본다 |
 | 관리자 | 점주의 입점과 사업자 정보를 검수하고, 쿠폰 전단지 템플릿을 만들고, 포인트 정책과 환불을 다룬다 |
 
 <br>
