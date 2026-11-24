@@ -4,15 +4,11 @@
 > 점주는 노출된 만큼 포인트를 내는 위치 기반 광고 플랫폼
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lunch-catch/lc-frontend/main/docs/images/user-splash.webp" alt="사용자 앱 스플래시 화면" width="148" />
   <img src="https://raw.githubusercontent.com/lunch-catch/lc-frontend/main/docs/images/user-swipe.webp" alt="사용자 앱 오늘 점심 피드" width="148" />
   <img src="https://raw.githubusercontent.com/lunch-catch/lc-frontend/main/docs/images/owner-home.webp" alt="점주 앱 홈의 진행 중인 캠페인" width="148" />
+  <img src="https://raw.githubusercontent.com/lunch-catch/lc-frontend/main/docs/images/admin-template-chat.webp" alt="관리자 앱 쿠폰 전단지 템플릿 편집기" width="512" />
   <br />
-  <sub>왼쪽부터 사용자 앱 스플래시 · 사용자 앱 오늘 점심 · 점주 앱 홈</sub>
-  <br /><br />
-  <img src="https://raw.githubusercontent.com/lunch-catch/lc-frontend/main/docs/images/admin-template-chat.webp" alt="관리자 앱 템플릿 편집기" width="512" />
-  <br />
-  <sub>관리자 앱 쿠폰 전단지 템플릿 편집기</sub>
+  <sub>왼쪽부터 사용자 앱 · 점주 앱 · 관리자 앱 UI 이미지</sub>
 </p>
 
 <br>
@@ -26,9 +22,9 @@
 
 <br>
 
-## 무엇을 하나
+## 서비스 소개
 
-| 사용자 | 하는 일 |
+| 구분 | 하는 일 |
 |---|---|
 | 회원 | 지금 위치 주변의 쿠폰 광고를 피드로 받고, 가게를 찜하고, 선착순 쿠폰을 받아 가게에서 QR 로 쓴다 |
 | 점주 | 가게를 등록하고 쿠폰 캠페인을 만들고, 포인트를 충전해 광고를 집행하고, 노출과 발급 실적을 본다 |
