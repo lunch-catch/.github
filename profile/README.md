@@ -5,10 +5,14 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lunch-catch/lc-frontend/main/docs/images/user-splash.webp" alt="사용자 앱 스플래시 화면" width="148" />
+  <img src="https://raw.githubusercontent.com/lunch-catch/lc-frontend/main/docs/images/user-swipe.webp" alt="사용자 앱 오늘 점심 피드" width="148" />
   <img src="https://raw.githubusercontent.com/lunch-catch/lc-frontend/main/docs/images/owner-home.webp" alt="점주 앱 홈의 진행 중인 캠페인" width="148" />
+  <br />
+  <sub>왼쪽부터 사용자 앱 스플래시 · 사용자 앱 오늘 점심 · 점주 앱 홈</sub>
+  <br /><br />
   <img src="https://raw.githubusercontent.com/lunch-catch/lc-frontend/main/docs/images/admin-template-chat.webp" alt="관리자 앱 템플릿 편집기" width="512" />
   <br />
-  <sub>왼쪽부터 사용자 앱 · 점주 앱 · 관리자 앱</sub>
+  <sub>관리자 앱 쿠폰 전단지 템플릿 편집기</sub>
 </p>
 
 <br>
